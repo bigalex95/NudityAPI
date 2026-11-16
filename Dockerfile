@@ -2,7 +2,7 @@
 
 FROM tiangolo/uvicorn-gunicorn:python3.8-slim
 
-LABEL maintainer="Alibek Erkabayev <alibek060395@gmail.com>"
+LABEL maintainer="bigalex95 (https://github.com/bigalex95)"
 
 # set work directory
 WORKDIR /app

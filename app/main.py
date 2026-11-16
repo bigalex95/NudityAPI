@@ -21,7 +21,7 @@ app_desc = """
 <br>
 <ul>
   <li>Alibek Erkabayev</li>
-  <li>alibek060395@gmail.com</li>
+  <li><a href="https://github.com/bigalex95">github.com/bigalex95</a></li>
   <li><a href="https://lazylearning.me/">My portfolio</a></li>
 </ul>
 """
